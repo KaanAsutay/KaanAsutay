@@ -64,7 +64,14 @@
 <details>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
-
   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaanAsutay&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats)
+</details>
+
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=KaanAsutay&theme=discord" alt="MelvinAguilar" />
+</details>
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
