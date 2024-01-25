@@ -75,20 +75,3 @@
 </details>
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
-
-<br>
-<h2 align="center">:bulb:Most Used Language</h2>
-
-<div  align="center">
-        
-<br/>
-        
-<img
-     src="https://github-readme-stats.vercel.app/api?username=KaanAsutayGitHub&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAsutayGitHub&theme=blue-green"
-     alt=""
-     /> <br/>
-</div>
