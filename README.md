@@ -15,9 +15,9 @@
 
  <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
   
-- I’m currently working on **becoming a Full-Stack Developer**.
+- I’m currently working on **becoming a Full-Stack Developer**
   
-- Ask me anything about **React - JavaScript - HTML5, CSS3 - Third party CSS libraries - NodeJs - ExpressJs - MongoDB - SQL**.
+- Ask me anything about **React - JavaScript - HTML5, CSS3 - Third party CSS libraries - NodeJs - ExpressJs - MongoDB - SQL**
 
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolga-kaan-asutay/)
